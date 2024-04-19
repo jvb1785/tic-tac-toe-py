@@ -19,8 +19,7 @@ An adversarial game.
 Optionally fork this [remote repository](https://github.com/s2t2/tic-tac-toe-py), to create a copy under your own control. Then "clone" or download the remote repository (or your forked copy) onto your local computer, for example to your Desktop. Then navigate to wherever you downloaded the repo:
 
 ```sh
-cd ~/Desktop/tic-tac-toe-py
-```
+cd ~/OneDrive/Documents/GitHub/tic-tac-toe-py```
 
 Create a virtual environment:
 
@@ -62,7 +61,7 @@ python -m app.game
 ```
 
 
-### Game Simulation
+### Game Simulation 
 
 Play many games (computer vs computer), saves results to CSV file in "data" directory. Optionally pass the game count and/or player strategies as environment variables:
 
